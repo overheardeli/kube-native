@@ -3,8 +3,8 @@ pipeline {
     agent any    
     
     environment {
-        DTR_FQDN_PORT='<DTR FQDN>:4443'
-        GIT_USER='<GitHub username>'
+        DTR_FQDN_PORT='qvkqld7ryptwtwak4-v6onjibarxfm4qy4r.labs.strigo.io:4443'
+        GIT_USER='overheardeli'
     }
 
     stages {
